@@ -28,10 +28,10 @@ h1 {
   padding: 16px;
 }
 
-.btn-red {
+.btn-blue {
   color: white;
   text-decoration: none;
-  background-color: red;
+  background-color: blue;
   padding: 24px;
   border-radius: 7px;
   display: block;
